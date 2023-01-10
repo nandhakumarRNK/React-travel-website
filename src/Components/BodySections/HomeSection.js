@@ -14,7 +14,7 @@ export class HomeSection extends Component {
             <div class="home__data">
               <span class="home__data-subtitle">Discover your place</span>
               <h1 class="home__data-title">
-                Explore The <br /> Best{" "}
+                Explore The <br /> Best
                 <b>
                   Beautiful <br /> Beaches
                 </b>

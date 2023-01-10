@@ -21,12 +21,10 @@ export class AboutSection extends Component {
                 Reserve a place
               </a>
             </div>
-
             <div class="about__img">
               <div class="about__img-overlay">
                 <img src={about1} alt="about1" class="about__img-one" />
               </div>
-
               <div class="about__img-overlay">
                 <img src={about2} alt="about2" class="about__img-two" />
               </div>

@@ -26,7 +26,7 @@ export class PlacesSection extends Component {
                 <div class="place__data">
                   <h3 class="place__title">Bali</h3>
                   <span class="place__subtitle">Indonesia</span>
-                  <span class="place__price">$2499</span>
+                  <span class="place__price">&#x20b9;2499</span>
                 </div>
               </div>
 
@@ -48,7 +48,7 @@ export class PlacesSection extends Component {
                 <div class="place__data">
                   <h3 class="place__title">Bora Bora</h3>
                   <span class="place__subtitle">Polinesia</span>
-                  <span class="place__price">$1599</span>
+                  <span class="place__price">&#x20b9;1599</span>
                 </div>
               </div>
 
@@ -70,7 +70,7 @@ export class PlacesSection extends Component {
                 <div class="place__data">
                   <h3 class="place__title">Hawaii</h3>
                   <span class="place__subtitle">EE.UU</span>
-                  <span class="place__price">$3499</span>
+                  <span class="place__price">&#x20b9;3499</span>
                 </div>
               </div>
 
@@ -92,7 +92,7 @@ export class PlacesSection extends Component {
                 <div class="place__data">
                   <h3 class="place__title">Whitehaven</h3>
                   <span class="place__subtitle">Australia</span>
-                  <span class="place__price">$2499</span>
+                  <span class="place__price">&#x20b9;2499</span>
                 </div>
               </div>
 
@@ -114,7 +114,7 @@ export class PlacesSection extends Component {
                 <div class="place__data">
                   <h3 class="place__title">Hvar</h3>
                   <span class="place__subtitle">Croacia</span>
-                  <span class="place__price">$1999</span>
+                  <span class="place__price">&#x20b9;1999</span>
                 </div>
               </div>
 

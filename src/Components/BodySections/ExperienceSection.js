@@ -14,7 +14,7 @@ export class ExperienceSection extends Component {
           <div class="experience__container container grid">
             <div class="experience__content grid">
               <div class="experience__data">
-                <h2 class="experience__number">20</h2>
+                <h2 class="experience__number">10</h2>
                 <span class="experience__description">
                   Year <br /> Experience
                 </span>

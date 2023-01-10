@@ -10,15 +10,11 @@ export class VideoSection extends Component {
         videoButton = document.getElementById("video-button"),
         videoIcon = document.getElementById("video-icon");
       if (videoFile.paused) {
-        // Play video
         videoFile.play();
-        // We change the icon
         videoIcon.classList.add("ri-pause-line");
         videoIcon.classList.remove("ri-play-line");
       } else {
-        // Pause video
         videoFile.pause();
-        // We change the icon
         videoIcon.classList.remove("ri-pause-line");
         videoIcon.classList.add("ri-play-line");
       }
@@ -26,11 +22,9 @@ export class VideoSection extends Component {
 
     function finalVideo() {
       const videoIcon = document.getElementById("video-icon");
-      // Video ends, icon change
       videoIcon.classList.remove("ri-pause-line");
       videoIcon.classList.add("ri-play-line");
     }
-    // ended, when the video ends
 
     return (
       <div>
@@ -47,7 +41,6 @@ export class VideoSection extends Component {
               <video id="video-file" onEnded={finalVideo}>
                 <source src={video} type="video/mp4" />
               </video>
-
               <button
                 class="button button--flex video__button"
                 id="video-button"

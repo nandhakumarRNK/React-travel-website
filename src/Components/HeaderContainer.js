@@ -14,7 +14,7 @@ export class HeaderContainer extends Component {
         ? "ri-moon-line"
         : "ri-sun-line";
 
-    //for future theme features    
+    //for future theme features
     // if (selectedTheme) {
     //   document.body.classList[selectedTheme === "dark" ? "add" : "remove"](
     //     darkTheme
@@ -76,7 +76,11 @@ export class HeaderContainer extends Component {
                 <i class="ri-moon-line change-theme" id="theme-button"></i>
               </div>
 
-              <i class="ri-close-line nav__close" id="nav-close" onClick={clickProp}></i>
+              <i
+                class="ri-close-line nav__close"
+                id="nav-close"
+                onClick={clickProp}
+              ></i>
             </div>
 
             <div class="nav__toggle" id="nav-toggle" onClick={clickProp}>
