@@ -12,6 +12,7 @@ export class SectionContainer extends Component {
   render() {
     return (
       <div>
+        {/* here are the body sections */}
         <HomeSection />
         <AboutSection />
         <DiscoverSection />

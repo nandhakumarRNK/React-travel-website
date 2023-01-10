@@ -91,7 +91,6 @@ function App() {
         <SectionContainer />
       </main>
       <FooterContainer />
-
       <a href="#" className="scrollup" id="scroll-up">
         <i class="ri-arrow-up-line scrollup__icon"></i>
       </a>

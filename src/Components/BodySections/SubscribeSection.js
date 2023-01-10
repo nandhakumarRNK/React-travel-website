@@ -20,7 +20,6 @@ export class SubscribeSection extends Component {
                   placeholder="Enter email"
                   class="subscribe__input"
                 />
-
                 <button class="button">Subscribe</button>
               </form>
             </div>

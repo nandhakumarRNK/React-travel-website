@@ -10,8 +10,8 @@ export class FooterContainer extends Component {
               <div class="footer__data">
                 <h3 class="footer__title">Travel</h3>
                 <p class="footer__description">
-                  leorem ispudium <br /> destination, we offer you the{" "}
-                  <br /> experience.
+                  leorem ispudium <br /> destination, we offer you the <br />{" "}
+                  experience.
                 </p>
                 <div>
                   <a
@@ -76,12 +76,12 @@ export class FooterContainer extends Component {
                   </li>
                   <li class="footer__item">
                     <a href={""} class="footer__link">
-                     Pricing
+                      Pricing
                     </a>
                   </li>
                   <li class="footer__item">
                     <a href={""} class="footer__link">
-                      Become a member
+                      Be a member
                     </a>
                   </li>
                 </ul>
