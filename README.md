@@ -12,8 +12,13 @@ Recreate and inspired by doing [Bedimcode's](https://github.com/bedimcode/respon
 
 
 #
-**Preview 1 (Mobile):**
+**Preview 1 (Desktop):**
 
-![screenshot2](https://user-images.githubusercontent.com/121867811/211470300-30ee1a8d-ea53-42db-9523-c714bfc178e3.png)
+![screenshot1](https://github.com/NandhakumarRNK/React-travel-website/blob/271779cec961ab722c9e6df94f626b8ee6725747/src/assets/img/screenshot1.png)
+
+**Preview 2 (Mobile):**
+
+![screenshot1](https://github.com/NandhakumarRNK/React-travel-website/blob/271779cec961ab722c9e6df94f626b8ee6725747/src/assets/img/screenshot1.png)
+
 
 
