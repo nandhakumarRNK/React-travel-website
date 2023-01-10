@@ -8,8 +8,6 @@
 
 ![travel-website](/preview.png)
 
-Recreate and inspired by doing [Bedimcode's](https://github.com/bedimcode/responsive-travel-website) bootstrap website into ReactJs
-
 
 #
 **Preview 1 (Desktop):**
@@ -18,7 +16,10 @@ Recreate and inspired by doing [Bedimcode's](https://github.com/bedimcode/respon
 
 **Preview 2 (Mobile):**
 
-![screenshot1](https://github.com/NandhakumarRNK/React-travel-website/blob/271779cec961ab722c9e6df94f626b8ee6725747/src/assets/img/screenshot1.png)
+![screenshot2](https://github.com/NandhakumarRNK/React-travel-website/blob/154840b7d3761604c678ab18284e1090edd65bf5/src/assets/img/screenshot2.png)
+
+
+Recreate and inspired by doing [Bedimcode's](https://github.com/bedimcode/responsive-travel-website) bootstrap website into ReactJs
 
 
 
