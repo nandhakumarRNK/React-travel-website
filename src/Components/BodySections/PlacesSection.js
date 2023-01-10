@@ -13,7 +13,7 @@ export class PlacesSection extends Component {
           <h2 class="section__title">Choose Your Place</h2>
 
           <div class="place__container container grid">
-            {/* <!--==================== PLACES CARD 1 ====================--> */}
+            {/* ==================== PLACES CARD 1 ====================*/}
             <div class="place__card">
               <img src={place1} alt="place1" class="place__img" />
 
@@ -35,7 +35,7 @@ export class PlacesSection extends Component {
               </button>
             </div>
 
-            {/* <!--==================== PLACES CARD 2 ====================--> */}
+            {/* ==================== PLACES CARD 2 ==================== */}
             <div class="place__card">
               <img src={place2} alt="place2" class="place__img" />
 
@@ -57,7 +57,7 @@ export class PlacesSection extends Component {
               </button>
             </div>
 
-            {/* <!--==================== PLACES CARD 3 ====================--> */}
+            {/* ==================== PLACES CARD 3 ==================== */}
             <div class="place__card">
               <img src={place3} alt="place2" class="place__img" />
 
@@ -79,7 +79,7 @@ export class PlacesSection extends Component {
               </button>
             </div>
 
-            {/* <!--==================== PLACES CARD 4 ====================--> */}
+            {/* ==================== PLACES CARD 4 ==================== */}
             <div class="place__card">
               <img src={place4} alt="place4" class="place__img" />
 
@@ -101,7 +101,7 @@ export class PlacesSection extends Component {
               </button>
             </div>
 
-            {/* <!--==================== PLACES CARD 5 ====================--> */}
+            {/* ==================== PLACES CARD 5 ==================== */}
             <div class="place__card">
               <img src={place5} alt="place2" class="place__img" />
 

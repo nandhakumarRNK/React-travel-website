@@ -14,6 +14,7 @@ export class HeaderContainer extends Component {
         ? "ri-moon-line"
         : "ri-sun-line";
 
+    //for future theme features    
     // if (selectedTheme) {
     //   document.body.classList[selectedTheme === "dark" ? "add" : "remove"](
     //     darkTheme
